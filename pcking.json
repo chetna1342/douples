@@ -1,0 +1,255 @@
+[
+    {
+       "tag": "greeting",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Good morning",
+        "Good afternoon",
+        "Good evening"
+      ],
+      "responses": [
+        "Hey, welcome to PCIkng! How can I assist you today?",
+        "Hello! How may I help you?",
+        "Hi there! Let me know how I can assist."
+      ]
+    },
+
+    {
+      "tag": "thank_you",
+      "patterns": [
+        "Thank you",
+        "Thanks a lot",
+        "I appreciate it",
+        "Thanks for the help",
+        "Much appreciated"
+      ],
+      "responses": [
+        "You're welcome! Let me know if there's anything else you need.",
+        "Glad I could help! Feel free to ask more questions."
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Talk to you later",
+        "Take care"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Let me know if you need assistance again."
+      ]
+    },
+    {
+      "tag": "institution_info",
+      "patterns": [
+        "Tell me about PCIkng",
+        "What is PCIkng?",
+        "Where is PCIkng located?",
+        "When was PCIkng established?",
+        "Give me some details about PCIkng"
+
+      ],
+      "responses": [
+        "PCIkng, established in 1951, is a leading educational institution affiliated with the State Council of Technical Education, West Bengal. We offer government-certified courses in computer and technology. Our location: 32/2 Mon Mohan Ghosh Street, Krishnagar, Nadia, West Bengal. Learn more: [About PCIkng](https://www.pcikng.org/about-us/)."
+      ]
+    },
+    {
+      "tag": "contact_details",
+      "patterns": [
+        "How can I contact PCIkng?",
+        "What is the phone number for PCIkng?",
+        "What is your email address?",
+        "How do I get in touch?",
+        "Where can I find your contact information?"
+      ],
+      "responses": [
+        "You can contact us via phone at +91 7407378478, +91 9933115723, or +91 9333285727. Our email addresses are admission@pcikng.org, feedback@pcikng.org, jobapply@pcikng.org, and support@pcikng.org. Office hours are 10 AM to 10 PM. Location details: [PCIkng on Google Maps](https://www.google.com/maps?ll=23.409237,88.493179&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q=Manmohan+Ghosh+Street+Behind+Government+College+Bus+Stop,+Krishnanagar,+West+Bengal)."
+      ]
+    },
+    {
+      "tag": "holiday_schedule",
+      "patterns": [
+        "What are the holidays?",
+        "When is the next holiday?",
+        "What is the holiday schedule?",
+        "Tell me about the holiday calendar?",
+        "Which holidays are coming up?"
+      ],
+      "responses": ["Our upcoming holidays include:\n\n- Christmas Eve (24 Dec)\n- Christmas (25 Dec)\n- Guru Govind Singh Jayanti (29 Dec)"
+      ]
+    },
+
+    {
+      "tag": "desktop_publishing",
+      "patterns": [
+        "Tell me about Desktop Publishing Operator and Multimedia",
+        "What is DPOM?",
+        "Details for Desktop Publishing course",
+        "Can you explain Desktop Publishing and its applications?",
+        "What does a Desktop Publishing Operator do?"
+      ],
+      "responses": [
+        "The Desktop Publishing Operator and Multimedia (DPOM) course is a 6-month program with fees of ₳500/month. Eligibility: Class 8 Pass. Job roles include DTP Operator and Multimedia Assistant. Total training hours: 600. Learn more: [DPOM Details](https://drive.google.com/file/d/1ZujLZBlBuH4ncYulFVmNqdbeOSV2gICx/view). Apply here: [Apply for DPOM](https://www.pcikng.org/membership/)."
+      ]
+    },
+    {
+      "tag": "accounting_associate",
+      "patterns": [
+        "Tell me about Accounting Associate course",
+        "What is ACAS?",
+        "Details for Accounting course",
+        "Can you explain what an Accounting Associate does?",
+        "What are the requirements for the Accounting Associate course?"
+      ],
+      "responses": [
+        "The Accounting Associate (ACAS) course is a 6-month program with fees of ₳500/month. Eligibility: Class 8 Pass. Job roles include Accounting Assistant and Finance & Accounts. Total training hours: 600. Learn more: [ACAS Details](https://drive.google.com/file/d/1SVUJMYGkE2KIUaZNsLwP_z2-qDNRc1HL/view). Apply here: [Apply for ACAS](https://www.pcikng.org/membership/)."
+      ]
+    },
+    {
+      "tag": "data_entry_operator",
+      "patterns": [
+        "Tell me about Data Entry Operator course",
+        "What is DEDP?",
+        "Details for Data Entry Operator program",
+        "Can you provide information on Data Entry Operator training?",
+        "What does the Data Entry Operator program include?"
+      ],
+      "responses": [
+        "The Data Entry Operator with Introduction to Desktop Publishing (DEDP) course is a 6-month program with fees of ₳500/month. Eligibility: Class 8 Pass. Job roles include Data Entry Operator and DTP Assistant. Total training hours: 600. Learn more: [DEDP Details](https://drive.google.com/file/d/1dmuo0eS9rZGD7TSwij5Uc9cQJMn7PhM8/view). Apply here: [Apply for DEDP](https://www.pcikng.org/membership/)."
+      ]
+    },
+    {
+      "tag": "computer_application",
+      "patterns": [
+        "Tell me about Computer Application course",
+        "What is CACP?",
+        "Details for Computer Application program",
+        "Can you explain the Computer Application course?",
+        "What is the Computer Application program?"
+      ],
+      "responses": [
+        "The Computer Application and Basics of 'C' & Python Programming (CACP) course is a 1-year program with fees of ₳500/month. Eligibility: Class 8 Pass + ITI or equivalent. Job roles include Programming Assistant and Network Support. Total training hours: 1200. Learn more: [CACP Details](https://drive.google.com/file/d/18Gvl1pwTeSQiP7lna84WCv5lwzyy-KfI/view). Apply here: [Apply for CACP](https://www.pcikng.org/membership/)."
+      ]
+    },
+    {
+      "tag": "web_designing",
+      "patterns": [
+        "Tell me about Web Designing and Development",
+        "What is included in Web Designing?",
+        "Details for Web Development program",
+        "What does a web designer do?",
+        "Can you explain the process of web development?"
+      ],
+      "responses": [
+        "The Web Designing and Development course includes technologies like HTML, CSS, JavaScript, React, Node.js, Python, PHP, and MySQL. Fees: ₹500 each for frontend and backend. Learn more: [Web Designing Details](https://www.pcikng.org/web-designing-and-development/)."
+      ]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "What services do you provide?",
+        "Tell me about the services offered",
+        "What can I expect from PCIkng?",
+        "Can you list the services you offer?",
+        "What are the services available at PCIkng?"
+      ],
+      "responses": ["At PCIkng, we provide:\n- CERTIFIED COURSES: Recognized and industry-relevant.\n- CERTIFIED TEACHERS: Skilled educators with professional credentials.\n- TOP CLASSES & MATERIALS: Comprehensive learning resources and expert-led sessions."
+
+      ]
+    },
+    {
+      "tag": "timetable",
+      "patterns": [
+        "What is the class timetable?",
+        "Where can I find the timetable?",
+        "Can you share the timetable link?",
+        "I need the schedule for classes",
+        "When do the classes start?"
+      ],
+      "responses": [
+        "You can find the class timetable here: [Class Timetable](https://www.pcikng.org/time-table-2/)."
+      ]
+    },
+    {
+      "tag": "student_registration",
+      "patterns": [
+        "How do I register as a student?",
+        "Where can I register?",
+        "Student registration link",
+        "I want to register as a student",
+        "When do the classes start?"
+      ],
+      "responses": [
+        "You can register as a student here: [Student Registration Page](https://www.pcikng.org/student-registration/)."
+      ]
+    },
+    {
+      "tag": "student_login",
+      "patterns": [
+        "How do I log in as a student?",
+        "Where is the login page?",
+        "Student login link",
+        "I want to access the student portal",
+        "How can I sign in as a student?"
+      ],
+      "responses": [
+        "You can log in as a student here: [Student Login Page](https://www.pcikng.org/login/)."
+      ]
+    },
+    {
+      "tag": "exam_result",
+      "patterns": [
+        "Where can I check my exam results?",
+        "Exam result link",
+        "How do I see my results?",
+        "I need the exam result page",
+        "Where can I find my exam results?"
+      ],
+      "responses": [
+        "You can check your exam results here: [Exam Result Page](https://www.pcikng.org/exam-result/)."
+      ]
+    },
+    {
+      "tag": "courses_offered",
+      "patterns": [
+        "What courses do you offer?",
+        "Tell me about the available courses",
+        "List the courses you provide",
+        "Can you share the courses available?",
+        "What programs do you offer?"
+      ],
+      "responses": ["We offer the following courses:\n\n1. Desktop Publishing Operator And Multimedia (DPOM), for more details [click here](https://drive.google.com/file/d/1ZujLZBlBuH4ncYulFVmNqdbeOSV2gICx/view) or [Apply now](https://www.pcikng.org/membership/)\n\n2. Accounting Associate (ACAS), for more details [click here](https://drive.google.com/file/d/1SVUJMYGkE2KIUaZNsLwP_z2-qDNRc1HL/view) or [Apply now](https://www.pcikng.org/membership/)\n\n3.Data Entry Operator with the Introduction of Desktop Publishing (DEDP), for more details [click here](https://drive.google.com/file/d/1dmuo0eS9rZGD7TSwij5Uc9cQJMn7PhM8/view) or [Apply now](https://www.pcikng.org/membership/)\n\n4. Computer Application and Basics of ‘C’ & Python Programming (CACP), for more details [click here](https://drive.google.com/file/d/18Gvl1pwTeSQiP7lna84WCv5lwzyy-KfI/view) or [Apply now](https://www.pcikng.org/membership/)"
+
+      ]
+    },
+    {
+      "tag": "course_subjects",
+      "patterns": [
+        "What subjects are included in the courses?",
+        "Tell me the subjects for the courses",
+        "What topics are covered in the courses?",
+        "Give me the list of subjects",
+        "Can you provide the subjects in the courses?"
+      ],
+      "responses": ["The following subjects are included in our courses:\n\n- Financial Accounts\n- Shorthand\n- Programming\n-CorelDRAW\n- Tally\n- Photoshop"
+      ]
+    },
+    {
+      "tag": "new_courses",
+      "patterns": [
+        "What new courses do you offer?",
+        "Tell me about the new courses",
+        "What are the new courses available?",
+        "List the new courses",
+        "Can you show me the latest courses?"
+      ],
+      "responses": ["We offer the following new courses:\n\n1. Web Designing and Development: [Read More](https://www.pcikng.org/web-designing-and-development/)\n\n2. App Development (iOS and Android): [Read More](https://www.pcikng.org/app-development/)\n\n3.Animation: [Read More](https://www.pcikng.org/animation/)\n\n4.Video Editing: [Read More](https://www.pcikng.org/video-editing/)\n\n5.Photo Editing: [Read More](https://www.pcikng.org/photo-editing/)\n\n6.Game Development: [Read More](https://www.pcikng.org/game-development/)"
+
+      ]
+
+    }
+  ]

@@ -1,0 +1,12 @@
+nltk
+tensorflow
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+langchain-groq
+langchain
+langchain-community
+transformers
+langchain-huggingface
+

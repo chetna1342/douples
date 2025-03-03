@@ -1,0 +1,408 @@
+[
+    {
+        "tag": "about_us",
+        "patterns": [
+            "About Us!",
+            "What does your music school offer",
+            "What makes your school special?",
+            "What this website or platform is all about?",
+            "Tell me about your music school."
+        ],
+        "responses": [
+            "This is a music learning based platform which provides courses and instruments of wide range to learn music and attached with West Bengal's Bangiya Sangeet Parishad, cultural body running since 1975, which is affiliated to Rabindra Bharati University.For details, [Surela](surela.org).",
+            "For learning more about Bangiya Sangeet Parishad, visit [Bangiya Sangeet Parishad ](https://rhythmsbangalore.com/bangiya.aspx#:~:text=Bangiya%20Sangeet%20Parishad%20is%20a,%2C%20painting%2C%20dance%20and%20recitation.)",
+            "This is an online platform for learning music using various fantastic strategies like online quiz, advanced and efficient music instruments and provide services related to music in quality manner.",
+            "Our online platform offers musical instrumental training from highly skilled mentors.",
+            "Our talented mentors and high quality instruments, interactive methods of teaching like quizez,courses at reasonable price,etc. makes our platform and music school special.Our instituion is one of the best music school in our whole locality.",
+            "Our instituion is located at, In Front of Krishnagar Government College, behind bus stoppage, 32/2 Mon Mohan Ghosh Street, Krishnagar, Nadia." ,
+            "In Front of Krishnagar Government College, behind bus stoppage, 32/2 Mon Mohan Ghosh Street, Krishnagar, Nadia."
+        ]
+    },
+    {
+        "tag": "contact_information",
+        "patterns": [
+            "How can I contact you?",
+            "How can I reach you?",
+            "What’s the best way to contact you?",
+            "Can you provide me with your phone number?",
+            "What are your contact details?"
+        ],
+        "responses": [
+            "Interested students can contact us on mobile: 8609665122 or email: info@musicschool.com.",
+            "You can contact on [Whatsapp](https://api.whatsapp.com/message/PA6L4OKDZGKFE1?autoload=1&app_absent=0).",
+            "For further details,[Click here](https://www.surela.org/contact/)",
+            "To contact, you can also [Send mail](https://www.surela.org/contact/) to us."
+        ]
+    },
+    {
+        "tag": "how_many_classes",
+        "patterns": [
+            "How many classes in a day?",
+            "How many classes do you have per day?",
+            "Can you tell me the daily class count?",
+            "How many sessions do you conduct daily?",
+            "What is the class schedule?"
+        ],
+        "responses": [
+            "We offer 4 classes per day, from 9 AM to 7 PM."
+        ]
+    },
+    {
+        "tag": "resgistration_join",
+        "patterns": [
+            "How do I enroll?",
+            "How can I sign up for course?",
+            "What is the enrollment procedure?",
+            "What steps do I need to take to enroll?",
+            "Is there an application form for signing up for classes?"
+        ],
+        "responses": [
+            "You can enroll by visiting our website or calling our office for details.",
+            "You can register for the courses from [Student register](https://www.surela.org/student-registration/) section of the platform."
+        ]
+    },
+    {
+        "tag": "course",
+        "patterns": [
+            "What courses do you offer?",
+            "Can you tell me about the courses?",
+            "What type of dances do you teach?",
+            "Do you have dance or music classes?",
+            "Which music courses are available?"
+        ],
+        "responses": [
+            "We offer these courses: Art and Painting, Dance, Music, Poem and Poetry.Each course is verified by Bangiyo Sangeet Parishad.For more details click on [courses](https://www.surela.org/all-courses/)",
+            "Courses we offer are as follows:- 1)[Arts and Paintings](https://drive.google.com/drive/folders/10vFmvB4IbqxqaFAHadf0SxkXMAEfjQZ3). 2)[Dance](https://www.surela.org/dance/). 3)[Music](). 4)[Poem and Poetry]()",
+            "Yes, we have dance and music classes with experienced mentors.Some kind of dances we teach are Rabindra Nritya Natya,Flok Dance, kathak, Nazrul Nritya, Bharatnatyam, Hip-Hop and Jazz.",
+            "We teach following types of dances:- Rabindra Nritya Natya,Flok Dance, kathak, Nazrul Nritya, Bharatnatyam, Hip-Hop and Jazz"
+        ]
+    },
+    {
+        "tag": "course_fee",
+        "patterns": [
+            "What are your fees?",
+            "How much do you charge for classes?",
+            "Can you provide information on class fees?",
+            "What is the fee for individual students?",
+            "Tell me the cost of your music lessons."
+        ],
+        "responses": [
+            "The fee structure depends on the course. Please contact our office for detailed pricing.",
+            "Our fees are so reasonable and for every different type of course we have different fee structures.",
+            "Listing of the prices of the course as per their categories are - 1)Rs300 for group classes. 2)Rs500 for individual classes. 3)Rs800 for individual home tutions.",
+            "The fees for individual classes are Rs500 and  Rs800 for individual private home tution classes.",
+            "We have following fee structure:- 1)Rs300 for group classes. 2)Rs500 for individual classes. 3)Rs800 for individual home tutions."
+        ]
+    },
+    {
+        "tag": "thank_you",
+        "patterns": [
+            "Thank you",
+            "Thanks a lot",
+            "I appreciate it",
+            "Much obliged",
+            "Thanks"
+        ],
+        "responses": [
+            "You're welcome! Feel free to reach out if you have more questions."
+        ]
+    },
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hello",
+            "Hi",
+            "Hey there",
+            "Good morning",
+            "Good afternoon",
+            "Hey"
+        ],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! How can I help?"
+        ]
+    },
+    {
+        "tag": "feedback",
+        "patterns": [
+            "How can I give feedback?",
+            "Can I leave a review?",
+            "How can I share my thoughts?",
+            "Can I leave feedback about your classes?",
+            "Where can I post my review?"
+        ],
+        "responses": [
+            "You can leave feedback on our website or share your thoughts through our customer service."
+        ]
+    },
+    {
+        "tag": "location",
+        "patterns": [
+            "Where are you located?",
+            "Tell me your location",
+            "Where is your music school situated?",
+            "What is your address?",
+            "How can I find your school?"
+        ],
+        "responses": [
+            "We are located in front of Krishnagar Government College, behind the bus stoppage, at 32/2 Mon Mohan Ghosh Street, Krishnagar, Nadia.[Google map link](https://www.google.com/maps?ll=23.406682,88.487358&z=17&t=m&hl=en-US&gl=US&mapclient=embed&cid=8461961379916349760)",
+            "Our institution is located in front of Krishnagar Government College, behind the bus stoppage, at 32/2 Mon Mohan Ghosh Street, Krishnagar, Nadia, kolkata.",
+            "You can find our location using [Google link](https://www.google.com/maps?ll=23.406682,88.487358&z=17&t=m&hl=en-US&gl=US&mapclient=embed&cid=8461961379916349760)"
+        ]
+    },
+    {
+        "tag": "teacher",
+        "patterns": [
+            "What qualifications do your teachers have?",
+            "Are your teachers certified?",
+            "Tell me about the teachers' experience.",
+            "Are your teachers qualified?",
+            "What is the background of your teaching staff?"
+        ],
+        "responses": [
+            "Our teachers are highly qualified, with many holding degrees in music from reputed institutions.",
+            "Our mentors are highly qualified and with greater experiences which build confidence, uses suitable methodology for teaching and make them to practice efficiently and also provide oppurtunity using their knowledge and contacts.",
+            "Our teachers are trained through a well-defined syllabus and examinations that cover a range of topics including music, dance, recitation, and painting attending wide range of courses offered from Bangiya Sangeet Parishad.",
+            "Yes, our teachers are highly qualified and trustworthy.For better understanding, [Contact](https://api.whatsapp.com/message/PA6L4OKDZGKFE1?autoload=1&app_absent=0) on whatsapp"
+        ]
+    },
+    {
+        "tag": "trial_class",
+        "patterns": [
+            "Can I get a trial class?",
+            "Do you offer trial classes?",
+            "Are trial classes available for new students?",
+            "Can I try a class before enrolling?",
+            "How do I sign up for a trial class?"
+        ],
+        "responses": [
+            "Yes, we offer trial classes! Contact us to schedule one."
+        ]
+    },
+    {
+        "tag": "beginner_support",
+        "patterns": [
+            "Do you support beginners?",
+            "What help do you provide for beginners?",
+            "What can beginners expect from your classes?",
+            "Are there any special classes for beginners?",
+            "What resources do you have for beginner students?",
+            "How do you teach beginners?"
+        ],
+        "responses": [
+            "We offer interactive quizzes and fun activities to help beginners learn music easily and confidently. Our training is designed to build a strong foundation in music."
+        ]
+    },
+    {
+        "tag": "special_requests",
+        "patterns": [
+            "Do you take special requests?",
+            "Can I make a special request for my lesson?",
+            "Are special requests allowed for classes?",
+            "Can I request a custom music lesson?",
+            "Can I get help with a specific skill?"
+        ],
+        "responses": [
+            "Yes, we cater to special requests for music lessons. Let us know your requirements, and we’ll customize a plan for you."
+        ]
+    },
+    {
+        "tag": "top_widgets",
+        "patterns": [
+            "What are your top widgets?",
+            "Tell me about your best products.",
+            "Can you list your best-selling equipment?",
+            "Which products are considered your top widgets?",
+            "Do you have a list of your top equipment?"
+        ],
+        "responses": [
+            "Our top widgets include:",
+            "1. Focusrite Scarlett 18i20 3rd Gen",
+            "2. BOSS Guitar Effects Processor, Black (GT-1)",
+            "3. Boss GT-1B Bass Multi-Effects Processor",
+            "4. AHUJA Professional Economy Series Microphone – ADM-311",
+            "5. Marshall MG4 Carbon Series MG10CF",
+            "6. STRANGER SM6 6-channel Stereo Echo",
+            "For more details, visit [Top Widgets Page](https://www.surela.org/our-top-widgets/)."
+        ]
+    },
+    {
+        "tag": "sheet_music",
+        "patterns": [
+            "Do you provide sheet music?",
+            "Do you have any recommendations for sheet music for beginners?",
+            "Where can I find the sheet music for the songs we learn?",
+            "Can I get sheet music for practice?",
+            "Do you teach how to read sheet music?"
+        ],
+        "responses": [
+            "Yes, we provide sheet music for practice and also teach students how to read it."
+        ]
+    },
+    {
+        "tag": "specific_songs",
+        "patterns": [
+            "Can I learn to play a specific song?",
+            "Can you help me learn a particular song?",
+            "Do you offer lessons for popular songs?",
+            "Do you teach songs from movies?",
+            "Can I learn to play my favorite song?"
+        ],
+        "responses": [
+            "Yes, we can teach you how to play specific songs. Share the song with us, and we’ll guide you!"
+        ]
+    },
+    {
+        "tag": "benefits_of_learning",
+        "patterns": [
+            "What are the benefits of learning music?",
+            "How will learning music help me?",
+            "Why should I consider learning music?",
+            "What advantages come with taking music lessons?",
+            "What skills can I develop through your classes?"
+        ],
+        "responses": [
+            "Learning music with us enhances skills such as creativity, confidence, collaboration, time management, and the ability to think in patterns. It also boosts your ability to plan and take responsibility.",
+            "By attending our courses, students can learn several musical instruments like Guitar, Keyboard, Drum, Octapad, Cahon, Tabla, Violin, Flute, Sitar, Guitar(Spanish and Hawaiian) from our experienced mentors and outstanding quality equipment that we provide."
+        ]
+    },
+    {
+        "tag": "instrument_details",
+        "patterns": [
+            "What instruments do you have?",
+            "Do you provide instruments for practice?",
+            "Tell me about your collection of instruments.",
+            "What classical instruments do you have?",
+            "What rock instruments do you have?"
+        ],
+        "responses": [
+            "We have both types of musical instruments, Classical Instruments and Rock Instruments, as we provide mentorship in both.",
+            "Since today, we have 7 classical instruments and 7 rock instruments.",
+            "Yes, we provide a wide range of musical instruments like Guitar, Keyboard, Drum, Octapad, Cahon, Tabla, Violin, Flute, Sitar, Guitar(Spanish and Hawaiian). For more details click on [instruments](https://www.surela.org/instruments/).",
+            "We have a following collection of instruments:- 1)[Classical Instruments](https://www.surela.org/classic-instruments/) like Changer Harmonium, Tabla, Tanpura Female, Harmonica, etc. 2)[Rock Instruments](https://www.surela.org/rock-instruments/) like YAMAHA PSR-SX900, CASIO CTK-7300IN KH32, Mapex Tornado Drum Kit Wine Red Drum, etc.",
+            "We have a wide range of [Classical Instruments](https://www.surela.org/classic-instruments/) like Changer Harmonium, Tabla, Tanpura Female, Harmonica, etc.",
+            "We also have a wide variety of [Rock Instruments](https://www.surela.org/rock-instruments/) like YAMAHA PSR-SX900, CASIO CTK-7300IN KH32, Mapex Tornado Drum Kit Wine Red Drum, etc."
+        ]
+    },
+    {
+        "tag": "services_provided",
+        "patterns": [
+            "What services do you provide or have?",
+            "What are special services or resources you have?",
+            "List of services provided!",
+            "What is special about the provided services?",
+            "What facilities and services do you provide?"
+        ],
+        "responses": [
+            "We have lots of services like Studio Recordings, Live performance, and many more. For exploring more, click on [Services](https://www.surela.org/our-top-widgets/).",
+            "We have some [special gadgets](https://www.surela.org/our-top-widgets/) like Focusrite Scarlett 18i20 3rd Gen, BOSS Guitar Effects Processor, Black (GT-1), Boss GT-1000 Core Amp Modeling Processor etc.",
+            "We are one of the best music schools with full details on mentoring people."
+        ]
+    },
+    {
+        "tag": "certification",
+        "patterns": [
+            "Do you provide any certificates?",
+            "Is there a certificate for completing the course?",
+            "What type of certification do you offer after course completion?",
+            "Can I get a certificate after completing the course?",
+            "Will I receive a certificate when I finish the course?"
+        ],
+        "responses": [
+            "Yes, our courses are certified by BANGIYA SANGEET PARISHAD- a cultural body which is running from 1975, affiliated to [Rabindra Bharati University](https://rbu.ac.in/) and also Surela Certificate from our platform.",
+            "For every courses, there will be a certification from Bangiya Sangeet Parishad also affiliated with Rabindra Bharti University and also Surelu Certification is also available from our platform.",
+            "Our certifications are widely accepted and also recognized from government authority and giving quality performance since 1975."
+        ]
+    },
+    {
+        "tag": "location_information",
+        "patterns": [
+            "What’s the best way to get to your location?",
+            "What is the nearest metro station?",
+            "Is there parking available?",
+            "Can you provide directions?",
+            "What’s your nearest landmark?"
+        ],
+        "responses": [
+            "We are located near XYZ landmark. You can take the metro to ABC station and walk from there."
+        ]
+    },
+    {
+        "tag": "studio_recordings",
+        "patterns": [
+            "Do you offer studio recordings?",
+            "Can I record a song at your studio?",
+            "What types of songs do you record?",
+            "What is the process for booking studio time?",
+            "Are there any specific genres you specialize in for recordings?"
+        ],
+        "responses": [
+            "Yes, we offer studio recording with assisstance having minimum 7 years of field experience.For more info visit, [Studio Page](https://www.surela.org/studio-recording/)."
+        ]
+    },
+    {
+        "tag": "other_instruments",
+        "patterns": [
+            "Do you teach any other instruments?",
+            "Are there any additional instruments you provide lessons for?",
+            "What other instruments can I learn?",
+            "Are there any other unique instruments available?",
+            "Can I learn instruments not listed?"
+        ],
+        "responses": [
+            "Yes, we offer lessons for various other instruments, including Ukulele, Mandolin, and more."
+        ]
+    },
+    {
+        "tag": "privacy_policy",
+        "patterns": [
+            "What is your privacy policy?",
+            "Where can I read your privacy policy?",
+            "Do you have a privacy policy page?",
+            "Can you explain your privacy policy?",
+            "How do you handle user data according to your privacy policy?"
+        ],
+        "responses": [
+            "You can read our privacy policy here: [Privacy Policy](https://www.surela.org/privacy-policy/)."
+        ]
+    },
+    {
+        "tag": "gift_vouchers",
+        "patterns": [
+            "Do you offer gift vouchers?",
+            "Can I gift a music class to someone?",
+            "Are gift cards available for your school?",
+            "Do you provide digital gift vouchers?",
+            "Can I purchase a voucher for someone online?"
+        ],
+        "responses": [
+            "Yes, we offer gift vouchers for our music classes. Contact us to know more."
+        ]
+    },
+    {
+        "tag": "feedback",
+        "patterns": [
+            "How can I share feedback?",
+            "Where can I give reviews?",
+            "Can I leave feedback about your classes?",
+            "How do I rate my experience?",
+            "Where can I submit suggestions for improvement?"
+        ],
+        "responses": [
+            "We’d love to hear your feedback! You can share your thoughts through our website or contact us directly."
+        ]
+    },
+    {
+        "tag": "holidays",
+        "patterns": [
+            "What are your holiday dates?",
+            "Are you closed on Christmas?",
+            "When are you closed?",
+            "What are your official holidays?",
+            "Which days is your institute not operational?"
+        ],
+        "responses": [
+            "Our holidays include: 24 Dec (Christmas Eve) 25 Dec (Christmas) 29 Dec (Guru Govind Singh Jayanti)"
+        ]
+    }
+]
