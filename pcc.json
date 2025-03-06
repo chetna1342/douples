@@ -1,0 +1,359 @@
+[
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Hey there",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Hey, what's up?",
+        "Howdy"
+      ],
+      "responses": [
+        "Hello! Welcome to Perfect Coaching Centre. How can I assist you today?",
+        "Hi there! Let me know how I can help you with your learning goals.",
+        "Hey! How may I assist you today?"
+      ]
+    },
+    {
+      "tag": "thank_you",
+      "patterns": [
+        "Thank you",
+        "Thanks a lot",
+        "I appreciate it",
+        "Thanks for the help",
+        "Much appreciated",
+        "Many thanks",
+        "Thanks so much",
+        "I’m grateful"
+      ],
+      "responses": [
+        "You're welcome! Let me know if there's anything else I can assist with.",
+        "Glad I could help! Feel free to ask any other questions."
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Talk to you later",
+        "Catch you later",
+        "See you soon",
+        "Take care",
+        "Bye-bye"
+      ],
+      "responses": [
+        "Goodbye! Have a great day ahead!",
+        "See you later! Feel free to reach out anytime."
+      ]
+    },
+    {
+      "tag": "about_institution",
+      "patterns": [
+        "Tell me about Perfect Coaching Centre",
+        "What is Perfect Coaching Centre?",
+        "Where is Perfect Coaching Centre located?",
+        "What is the vision of your institute?",
+        "What is your mission?",
+        "Can you provide details about Perfect Coaching Centre?",
+        "What courses does Perfect Coaching Centre offer?",
+        "How can I contact Perfect Coaching Centre?"
+      ],
+      "responses": [
+        "Perfect Coaching Centre (PCC) is a premier educational institution dedicated to academic excellence and personal growth. Located at 32/2 Mon Mohan Ghosh Street, Krishnagar, Nadia, West Bengal, PCC offers personalized education, career counseling, and holistic development. Learn more: [About Us](https://pcc.duoples.com/#about)."
+      ]
+    },
+    {
+      "tag": "contact_info",
+      "patterns": [
+        "How can I contact PCC?",
+        "What is the phone number for PCC?",
+        "What is your email address?",
+        "How do I get in touch?",
+        "Can you provide PCC's contact details?",
+        "How can I reach PCC?",
+        "Is there a way to contact PCC?",
+        "How do I get in touch with PCC support?"
+      ],
+      "responses": [
+        "You can contact us via phone at +91 7872461758 or +91 9933115723. Email us at contact@pcc.duoples.com. Visit this for more [Contact Us](https://pcc.duoples.com/contact)."
+      ]
+    },
+    {
+      "tag": "courses_offered",
+      "patterns": [
+        "What courses do you offer?",
+        "Tell me about the available courses",
+        "List the courses you provide",
+        "Do you offer NEET or JEE preparation?",
+        "Can you share details about your courses?",
+        "What types of courses are available for students?",
+        "Which subjects do your courses cover?",
+        "Can you provide a list of your courses?"
+      ],
+     "responses": ["We offer the following courses:\n\n1. Competitive Exam Coaching (UPSC, TET, SSC, etc.)\n2. Academic Coaching (Class I to XII, NEET, JEE)\n3. Career Counseling and Personality Development\n\nFor more, visit the courses section."]
+
+    },
+    {
+      "tag": "faculty_info",
+      "patterns": [
+        "Who are the teachers at your institute?",
+        "Tell me about your faculty",
+        "Who teaches competitive exams at PCC?",
+        "Can you provide details about your instructors?",
+        "What are the qualifications of your faculty members?",
+        "How experienced are the faculty members at PCC?",
+        "Who are the subject matter experts at PCC?",
+        "Can you share some information about the faculty members at PCC?"
+      ],
+      "responses": [
+        "Our faculty includes highly experienced educators like Dipendu Sir (Computer), Arnab Sir (Competitive Exams), Siddhartha Sir (Mathematics), and others. Want more: [Faculty Details](https://pcc.duoples.com/#institute_member)."
+      ]
+    },
+    {
+      "tag": "admission_process",
+      "patterns": [
+        "How can I enroll in your institute?",
+        "What is the admission process?",
+        "Do you have an online registration form?",
+        "How do I join PCC?",
+        "What are the requirements for admission?",
+        "Is there an entrance exam for admission?",
+        "Can I apply for admission online?",
+        "What is the procedure to apply for admission?"
+      ],
+      "responses": [
+        "To enroll at PCC, visit our center, call us at +91 7872461758, or email contact@pcc.duoples.com. Online registration is also available here: [Apply Now](https://pcc.duoples.com/apply)."
+      ]
+    },
+    {
+      "tag": "competitive_exams",
+      "patterns": [
+        "Do you provide coaching for UPSC?",
+        "Tell me about your competitive exam courses",
+        "What exams do you prepare students for?",
+        "Do you offer training for government job exams?",
+        "Which competitive exams do you cover?",
+        "Can you help with preparation for SSC or banking exams?",
+        "Do you have coaching programs for civil services exams?",
+        "Can you help me prepare for railway recruitment exams?"
+      ],
+      "responses": [
+        "We offer coaching for various competitive exams, including UPSC, SSC, PSC, TET, WBCS, RAIL, Group C & D, and Police (Central & State). For more, check out our courses section."
+      ]
+    },
+    {
+      "tag": "follow_us",
+      "patterns": [
+        "How can I follow?",
+        "Where can I follow PCC on social media?",
+        "Social media links for PCC",
+        "How do I connect with PCC on social platforms?",
+        "What are PCC’s social media handles?",
+        "Can you share the social media profiles for PCC?",
+        "What are the best ways to follow PCC online?",
+        "How can I stay updated with PCC on social media?"
+
+      ],
+      "responses": ["Follow us on social media to stay updated:\n\n- Facebook: [PCC Facebook](https://www.facebook.com/perfectcoachingcentre/)\n- Instagram: [PCC Instagram](https://www.instagram.com/perfectcoachingcentre/)\n- LinkedIn: [PCC LinkedIn](https://www.linkedin.com/company/perfectcoachingcentre/)"]
+
+    },
+    {
+      "tag": "faqs",
+      "patterns": [
+        "What are the FAQs?",
+        "Can you answer some common questions?",
+        "What are some frequently asked questions?",
+        "Do you have a list of common queries?",
+        "Where can I find answers to common questions?",
+        "Can you provide some frequently asked questions?",
+        "What are the most common questions people ask?",
+        "Can you list the frequently asked questions?"
+      ],
+      "responses": [
+        "Find answers to common questions here: [FAQs](https://pcc.duoples.com/faqs)."
+      ]
+    },
+    {
+      "tag": "services_provided",
+      "patterns": [
+        "What services do you provide?",
+        "Tell me about your services",
+        "List the services you offer",
+        "What are your available services?",
+        "Can you describe your services?",
+        "What types of services do you offer?",
+        "Could you explain the services you provide?",
+        "Could you share the details of your services?"
+
+      ],
+      "responses": ["We provide a range of services, including:\n\n1. Academic Coaching (Class I to XII, NEET, JEE)\n2. Competitive Exam Preparation (UPSC, TET, SSC, etc.)\n3. Career Counseling and Personality Development\n4. Holistic Development Programs\n\nFor more details, check our website or visit us!"]
+
+    },
+    {
+      "tag": "study_materials",
+      "patterns": [
+        "Do you provide study materials?",
+        "What kind of study materials do you offer?",
+        "Are study materials included in the courses?",
+        "Can I access notes and resources?",
+        "Will I receive study guides and materials?",
+        "Are there any additional learning resources available?",
+        "Is there any course material provided for students?",
+        "Do you offer any extra reading materials?"
+      ],
+      "responses": [
+        "Yes, we provide comprehensive study materials, including notes, question banks, and practice tests.",
+        "Study materials are included in all our courses. You can also access them online via our portal.",
+        "We offer detailed resources to help you excel in your studies. Reach out for more details."
+      ]
+    },
+    {
+      "tag": "class_timings",
+      "patterns": [
+        "What are the class timings?",
+        "Do you have flexible class schedules?",
+        "When do the classes start?",
+        "What time do the classes begin?",
+        "Are there any evening classes available?",
+        "Can I choose my class timings?",
+        "What is the schedule for your classes?",
+        "Will there be weekend classes?"
+
+      ],
+      "responses": [
+        "Our class timings vary depending on the course. Contact us for the detailed schedule.",
+        "We offer flexible class schedules to accommodate your needs. Call us to know more.",
+        "Classes are scheduled throughout the week. Visit our website or call us for exact timings."
+      ]
+    },
+    {
+      "tag": "online_classes",
+      "patterns": [
+        "Do you provide online classes?",
+        "Are your classes available online?",
+        "Can I attend classes remotely?",
+        "Do you offer virtual classes?",
+        "Is it possible to join your classes online?",
+        "Can I learn through online sessions?",
+        "Are the classes conducted over the internet?",
+        "Can I access your classes from anywhere?"
+      ],
+      "responses": [
+        "Yes, we offer both online and offline classes to suit your convenience.",
+        "Our online classes are interactive and include live sessions, recorded lectures, and assignments.",
+        "You can join our online classes from anywhere. Contact us to enroll."
+      ]
+    },
+    {
+      "tag": "fee_structure",
+      "patterns": [
+        "What is the fee structure?",
+        "How much do the courses cost?",
+        "What are the fees for NEET coaching?",
+        "Do you offer any discounts on fees?",
+        "Can you provide details about the course fees?",
+        "What is the payment plan for the courses?",
+        "Is there any installment option for the course fees?",
+        "Are there any hidden charges for the course fees?"
+      ],
+      "responses": [
+        "Our fees vary by course. Please visit our website or contact us for detailed information.",
+        "We offer competitive pricing for all our courses. Reach out to know about any ongoing discounts."
+      ]
+    },
+    {
+      "tag": "scholarships",
+      "patterns": [
+        "Do you offer scholarships?",
+        "Are there any discounts for students?",
+        "What financial aid options are available?",
+        "Can I apply for a scholarship?",
+        "Do you have any student grants or financial support?",
+        "Are there any financial assistance programs for students?",
+        "What are the requirements for a scholarship?",
+        "Is there any help available for student tuition fees?"
+
+      ],
+      "responses": [
+        "Yes, we offer scholarships for meritorious and deserving students. Contact us for eligibility details.",
+        "We have financial aid options to support your learning journey. Call us to learn more."
+      ]
+    },
+    {
+      "tag": "events",
+      "patterns": [
+        "Do you organize events?",
+        "What events are conducted at PCC?",
+        "Are there any upcoming workshops or seminars?",
+        "Can I register for events at PCC?",
+        "What kind of events does PCC host?",
+        "How can I participate in PCC events?",
+        "Is there a calendar of events at PCC?",
+        "How can I get information about upcoming PCC events?"
+      ],
+      "responses": [
+        "Yes, we organize various workshops, seminars, and events to enhance learning. ",
+        "We regularly host educational events. Check our website for the latest updates."
+      ]
+    },
+    {
+      "tag": "mock_tests",
+      "patterns": [
+        "Do you provide mock tests?",
+        "Are there practice tests available?",
+        "How can I prepare for exams with PCC?",
+        "Can I take practice exams through PCC?",
+        "What are the best ways to prepare using mock tests?",
+        "Where can I find mock tests for exam preparation?",
+        "How can I access mock tests from PCC?",
+        "Are there any online resources for mock tests?"
+      ],
+      "responses": [
+        "Yes, we offer regular mock tests to help students assess their preparation.",
+        "Mock tests are included in all our courses to enhance your readiness for exams."
+      ]
+    },
+    {
+      "tag": "career_counseling",
+      "patterns": [
+        "Do you provide career counseling?",
+        "Can I get career advice at PCC?",
+        "Tell me about your counseling services",
+        "How can I get career guidance from you?",
+        "What are the options for career counseling at PCC?",
+        "Do you offer personalized career advice?",
+        "How can I seek career advice from PCC?",
+        "Do you have experts for career counseling?"
+
+      ],
+      "responses": [
+        "Yes, we offer personalized career counseling to help you make informed decisions. Book a session today!",
+        "Our experts provide guidance on career paths, exam strategies, and personal development. Reach out for more details."
+      ]
+    },
+    {
+      "tag": "technical_support",
+      "patterns": [
+        "I need technical support",
+        "The website is not working",
+        "I am facing an issue with the portal",
+        "How can I report a technical issue?",
+        "Who can help with technical problems?",
+        "I am having trouble accessing my account",
+        "The system is down, can you assist me?",
+        "My device is not functioning properly"
+      ],
+      "responses": [
+        "For technical support, please contact us at +91 7872461758 or email support@pcc.duoples.com.",
+        "We're here to help with technical issues. Reach out to our support team via email at support@pcc.duoples.com.",
+        "If you're experiencing technical difficulties, please let us know. Call us or send an email to support@pcc.duoples.com for assistance,thank you"
+      ]
+    }
+  ]
+
