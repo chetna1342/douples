@@ -1,0 +1,285 @@
+[
+    {
+       "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening",
+        "Good afternoon",
+        "How are you?",
+        "Is anyone there?",
+        "What's up?",
+        "Greetings!"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! Need help with something?",
+        "Hey! How can I help you?"
+      ]
+    },
+
+    {
+      "tag": "thank_you",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Thanks a lot",
+        "I appreciate it",
+        "Thank you so much",
+        "Thanks for your help",
+        "Much obliged",
+        "Many thanks",
+        "I’m grateful",
+        "Thanks a ton"
+      ],
+      "responses": [
+        "You're welcome! Let me know if you need any further assistance.",
+        "Happy to help! Have a great day!",
+        "Anytime! Feel free to ask if you need more help."
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "Take care",
+        "Have a nice day",
+        "Catch you later",
+        "See you soon",
+        "Talk to you later",
+        "Until next time",
+        "Have a great one"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you soon! Stay safe!",
+        "Take care! Let me know if you need anything else."
+      ]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "Tell me about your services",
+        "What services do you offer?",
+        "List your services",
+        "Available services",
+        "What can I rent?",
+        "Do you offer car rentals?",
+        "Do you provide garage rentals?",
+        "What kind of rentals do you have?",
+        "Can you share details about your rental options?",
+        "Do you have any special rental services?"
+
+      ],
+      "responses": [
+        "We offer Non-AC car hire, AC car hire, and Garage rental services.",
+        "Looking for a rental? We provide cars and garage spaces for your needs.",
+        "Our services include car rentals (AC & Non-AC) and secure garage rentals."
+      ]
+    },
+    {
+      "tag": "about_us",
+      "patterns": [
+        "Tell me about your company",
+        "What is Renting Garage and Hiring Cars?",
+        "Who are you?",
+        "Company details",
+        "About AUTOMOB",
+        "Can you describe your company?",
+        "What do you do?",
+        "Give me an overview of your business",
+        "What services does your company provide?",
+        "Can you share some information about your organization?"
+      ],
+      "responses": [
+        "Welcome to Renting Garage and Hiring Cars! We provide affordable and secure car rental and garage solutions. Visit our website for more details: [https://automob.duoples.com/](https://automob.duoples.com/).",
+        "We are a trusted company offering vehicle rental and garage storage services with excellent customer support. Learn more at [https://automob.duoples.com/](https://automob.duoples.com/).",
+        "Our mission is to offer reliable and affordable car rentals and garage spaces with top-notch security. Check out our website: [https://automob.duoples.com/](https://automob.duoples.com/)."      ]
+    },
+    {
+      "tag": "why_choose_us",
+      "patterns": [
+        "Why should I choose you?",
+        "What makes you different?",
+        "Why rent from you?",
+        "Benefits of using your service",
+        "How are you better than competitors?",
+        "Why should I trust your company?",
+        "What are the advantages of renting with you?",
+        "Why should I use your rental service?",
+        "What makes your service stand out?",
+        "How does your company provide better value?"
+      ],
+      "responses": [
+        "We provide affordable rentals, hassle-free booking, and top-notch security.",
+        "Our services are designed for convenience, reliability, and customer satisfaction.",
+        "We offer competitive pricing, a seamless rental process, and excellent customer service."
+      ]
+    },
+
+    {
+      "tag": "contact",
+      "patterns": [
+       "How can I contact you?",
+        "Give me your contact details",
+        "Customer support",
+        "Where are you located?",
+        "Contact information",
+        "What is your phone number?",
+        "How do I reach you?",
+        "What is your email address?",
+        "Can I get your support team's number?",
+        "How do I get in touch with customer service?"
+      ],
+      "responses": [
+        "Call us at  Email: contact@automob.duoples.com  Address: 32/2 Mon Mohan Ghosh Street, Krishnanagar, Nadia, WB, India.",
+        "Call us at +919333285727, +919933115723, +916295119356 for any inquiries!",
+        "Need help? Reach out to us via email or phone—we’re happy to assist!"      ]
+    },
+    {
+      "tag": "price",
+      "patterns": [
+       "What are your prices?",
+        "How much does it cost?",
+        "Give me the pricing details",
+        "Rental prices",
+        "Cost of car hire",
+        "Garage rent price",
+        "What are your rental rates?",
+        "How much do you charge for car hire?",
+        "Can you provide a price estimate?",
+        "What is the daily rental fee?"
+      ],
+      "responses": [
+        "For pricing details, please contact us at  contact@automob.duoples.com or call +919333285727, +919933115723, +916295119356.",
+        "Our prices vary based on rental type. Get in touch at contact@automob.duoples.com or  +919333285727, +919933115723, +916295119356 for more details!",
+        "Want a quote? Reach out to us at  contact@automob.duoples.com or call  +919333285727, +919933115723, +916295119356. We’ll be happy to assist!"
+      ]
+    },
+    {
+      "tag": "non_ac_car_hire",
+      "patterns": [
+        "I want a non-AC car",
+        "Rent a car without AC",
+        "Affordable car rental",
+        "Non-AC car hire",
+        "Can I rent a non-AC vehicle?",
+        "How much for a non-AC car?",
+        "Do you have budget-friendly car rentals?",
+        "I need a simple car without AC",
+        "Looking for a non-AC car rental",
+        "Can I get a cheap non-AC car?"
+      ],
+      "responses":
+      [
+        "We offer affordable Non-AC car rentals. Contact us at  contact@automob.duoples.com or call  +919333285727 for more details!",
+        "Looking for a budget-friendly car? Our Non-AC rentals are perfect for you. Reach out to us at contact@automob.duoples.com!",
+        "Book a Non-AC car today! Call us at +919333285727 to check availability and pricing."
+      ]
+    },
+    {
+      "tag": "ac_car_hire",
+      "patterns": [
+        "I want an AC car",
+        "Rent a car with AC",
+        "Air-conditioned car rental",
+        "AC car hire",
+        "Do you have AC cars available?",
+        "How much does an AC car rental cost?",
+        "I prefer an AC vehicle for rent",
+        "Can I book a luxury car with AC?",
+        "I need a car with air conditioning",
+        "Are there any AC cars available for rent?"
+      ],
+      "responses": [
+        "Enjoy a comfortable ride with our AC car rentals. Contact us at  contact@automob.duoples.com or  +919333285727 to book your ride!",
+        "We offer AC car rentals for a smooth and cool ride. Call us at  +919333285727 for pricing and availability!",
+        "Looking for an AC car? Reach out to us at  contact@automob.duoples.com to get started."
+      ]
+    },
+    {
+      "tag": "rent_garage",
+      "patterns": [
+        "I need a garage",
+        "Rent a parking space",
+        "Looking for a storage garage",
+        "Garage rental",
+        "Do you have parking spots for rent?",
+        "How much to rent a garage?",
+        "I need a secure garage for my car",
+        "Do you provide long-term garage rentals?",
+        "Where can I find a garage for rent?",
+        "Is there a covered parking space available for rent?"
+      ],
+      "responses": [
+        "We offer secure garage spaces for rent. Contact us at contact@automob.duoples.com or call +919333285727 for more details!",
+        "Need a safe place for your vehicle? Our garages are secure and affordable! Call us at  +919333285727 to check availability.",
+        "Looking for a storage garage? Reach out to us at  contact@automob.duoples.com for pricing and reservations!"
+      ]
+    },
+    {
+      "tag": "what_we_offer",
+      "patterns": [
+        "What do you offer?",
+        "Tell me about your services",
+        "What can I rent?",
+        "What services do you provide?",
+        "Can I hire a car from you?",
+        "Do you have garages for rent?",
+        "What rental options are available?",
+        "Do you provide both car rentals and garages?",
+        "Can I book a vehicle online?",
+        "Do you offer short-term and long-term rentals?"
+      ],
+      "responses": [
+        "We offer two main services:\n1 Renting Garages: Secure and safe spaces to store your vehicles, whether it's a classic car, motorcycle, or everyday ride.\n2.Hiring Cars:A variety of rental cars, from compact vehicles for city trips to spacious SUVs for family travel.",
+        "Our services include:\n1.Hiring Cars: Well-maintained rental cars for trips, business meetings, and daily commutes.\n2.Renting Garages: Secure storage spaces to keep your vehicle protected.",
+        "We provide:\n1.Car Rentals: A diverse fleet, including compact cars, sedans, and SUVs for various travel needs.\n2.Garage Rentals:Safe and secure vehicle storage solutions."
+
+      ]
+    },
+    {
+      "tag": "our_mission",
+      "patterns": [
+        "What is your mission?",
+        "Tell me about your mission",
+        "What do you aim to achieve?",
+        "Company mission",
+        "Why do you exist?",
+        "What are your goals?",
+        "What drives your company?",
+        "Can you share your vision and mission?",
+        "What is the purpose of your company?",
+        "How does your company make a difference?"
+      ],
+      "responses": [
+        "Our mission is to simplify your automotive experience by offering a one-stop solution for renting garages and hiring cars. We understand the challenges that car owners and travelers face, and we are dedicated to making your life easier."
+      ]
+    },
+    {
+      "tag": "follow_us",
+      "patterns": [
+         "Where can I follow you?",
+        "Social media links",
+        "Follow you online",
+        "Connect on social networks",
+        "Your social media",
+        "How do I stay updated with your services?",
+        "Can I follow you on Instagram?",
+        "What are your social media handles?",
+        "Do you have a Twitter or Facebook page?",
+        "Where can I find you on social media?"
+      ],
+      "responses": [
+        "Follow us on social media for updates and offers! Stay connected!",
+        "Want the latest news? Follow us on our social platforms!",
+        "Stay updated with our services! Connect with us on social media."
+
+      ]
+
+    }
+  ]
